@@ -1,2 +1,2 @@
 # Machine-Learning-Project
-Prediction of Hotel opening will be profitable or not
+Prediction of new hotel opened financial outcome
